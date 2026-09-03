@@ -330,8 +330,8 @@ How information-finding difficulty varies across physician specialty groups.
 
 How information-finding difficulty is distributed across EHR satisfaction groups.
 
-![Screenshot 2026-09-03 at 10.46.57 PM.png](External%20Clinical%20Information%20Access%20Analysis/Screenshot_2026-09-03_at_10.46.57_PM.png<img width="1507" height="914" alt="Screenshot_2026-09-03_at_10 46 57_PM" src="https://github.com/user-attachments/assets/061e17ae-ce59-4deb-b40c-02f49d5a4e88" />
-)
+<img width="1507" height="914" alt="Screenshot_2026-09-03_at_10 46 57_PM" src="https://github.com/user-attachments/assets/e204114c-c128-419d-8704-ccf2e42f29e0" />
+
 
 ## 10. Key Learning
 
